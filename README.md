@@ -1,58 +1,14 @@
-# Introduction
 
-Hello, world! 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-k16) 
 
-My name is [Your Name] and welcome to my GitHub page. I'm a [Your Profession/Interests] with a passion for [Your Interests/Specializations]. I love to explore the realms of technology and create innovative solutions that make a positive impact.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1611&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me
+---
+[![](https://visitcount.itsvg.in/api?id=divyansh-1611&icon=0&color=1)](https://visitcount.itsvg.in)
 
-I am a [Your Location]-based [Your Profession/Student/Job Title]. My journey in [Your Field/Industry] began [mention how it started or when]. Since then, I have been actively involved in [Your Area of Expertise/Interest]. I'm constantly learning and keeping up-to-date with the latest trends and advancements in [Your Field/Technology/Interest].
-
-## My Interests
-
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-- ...
-
-## Current Projects
-
-Briefly describe some of the exciting projects you're currently working on or have recently completed. Include links to their repositories or live demos, if available.
-
-1. [Project Name 1](link-to-repo-or-demo): A short description of the project.
-2. [Project Name 2](link-to-repo-or-demo): A short description of the project.
-3. ...
-
-## Achievements
-
-Share some of your notable achievements, certifications, or awards related to your field. It's a great way to showcase your expertise and hard work.
-
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
-- ...
-
-## Connect with Me
-
-I'm always excited to connect with like-minded individuals. Feel free to reach out to me through the following channels:
-
-- Email: [Your Email Address](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourusername)
-- Personal Website/Portfolio: [Your Website](https://www.yourwebsite.com)
-
-## Let's Collaborate
-
-If you're interested in collaborating on a project or have any cool ideas you'd like to discuss, don't hesitate to get in touch. I'm open to collaboration and teamwork!
-
-## Open Source Contributions
-
-List any contributions you've made to open-source projects. It's a great way to demonstrate your commitment to the community and your skills as a developer.
-
-1. [Project Name](link-to-repo): A brief description of your contribution.
-
-## Thanks for Visiting!
-
-Thanks for stopping by my GitHub page. Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them useful. Happy coding!
-
-[Your Name]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
